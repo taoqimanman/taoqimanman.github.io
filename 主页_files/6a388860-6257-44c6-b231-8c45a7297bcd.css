@@ -1,0 +1,40 @@
+/* 
+This CSS resource incorporates links to font software which is 
+the valuable copyrighted property of WebType LLC, The Font Bureau 
+and/or their suppliers. You may not attempt to copy, install, 
+redistribute, convert, modify or reverse engineer this font 
+software. Please contact WebType with any questions: www.webtype.com
+*/
+
+body:after { content: ''; background-image: url(//pls.webtype.com/v.gif?ct=64329,64330,64331,64329,64330,64331,64329,64330,64331,64329,64330,64331&r=12224&p=11175&h=UuvLgXPpXNJKSd4dxXSeQA%3d%3d); }
+
+@font-face {
+ font-family: "Benton Sans";
+ src: url("//cloud.webtype.com/webtype/ff/2/02364ac9-9266-44dd-820f-673b14538066");
+ src:  url("//cloud.webtype.com/webtype/ff/2/02364ac9-9266-44dd-820f-673b14538066#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/d83ae6ea-3e97-40da-8419-4c3b99e48561") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/7faeab98-5edb-4b5e-b156-e2acfb7770ab") format("truetype"),
+  url("//cloud.webtype.com/webtype/ff/4/9bcee24f-c0d9-40b0-a824-16f830707159#web") format("svg");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Benton Sans";
+ src: url("//cloud.webtype.com/webtype/ff/2/e045e22c-f8ba-4b46-871e-f072306be019");
+ src:  url("//cloud.webtype.com/webtype/ff/2/e045e22c-f8ba-4b46-871e-f072306be019#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/4d4b7fe1-e992-49e3-bf4d-fc5fa7748680") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/e3d09e6e-aa12-4808-885c-b9dcc49c1d9c") format("truetype"),
+  url("//cloud.webtype.com/webtype/ff/4/36dfa527-f08f-4c35-89c0-9e4f92f067a7#web") format("svg");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Benton Sans Light";
+ src: url("//cloud.webtype.com/webtype/ff/2/2c58a893-3781-4240-8580-d204c0372674");
+ src:  url("//cloud.webtype.com/webtype/ff/2/2c58a893-3781-4240-8580-d204c0372674#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/256f32ce-751f-4150-ab20-bffd399d8b21") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/6b504974-3ea3-4b74-ab94-f3a9d1e37d7b") format("truetype"),
+  url("//cloud.webtype.com/webtype/ff/4/0eed56dd-6c43-424d-9b40-f301a8a2a2a9#web") format("svg");
+ font-style: normal;
+ font-weight: normal;
+}
